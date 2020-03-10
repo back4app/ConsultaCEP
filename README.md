@@ -32,11 +32,11 @@ O exemplo consulta o CEP 99980-974, que é passado sem hífen: 99980974
 
 A saída do programa é a seguinte:
 
-Encontrado(s) 1 resultado(s) para o CEP.
-        O logradouro para o CEP 99980974 é: Distrito Capela São José do Capingui
-        O bairro para o CEP 99980974 é: Capela São José do Capingui (Distrito)
-        A cidade para o CEP 99980974 é: David Canabarro
-        O estado para o CEP 99980974 é: RS
+* Encontrado(s) 1 resultado(s) para o CEP.
+  * O logradouro para o CEP 99980974 é: Distrito Capela São José do Capingui
+  * O bairro para o CEP 99980974 é: Capela São José do Capingui (Distrito)
+  * A cidade para o CEP 99980974 é: David Canabarro
+  * O estado para o CEP 99980974 é: RS
 
 ## Conta gratuita sem limitações de funcionalidades
 
