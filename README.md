@@ -4,6 +4,8 @@ Este projeto utiliza um Parse App criado no [Back4app](https://www.back4app.com)
 
 Utilize este projeto e a base de dados de CEPs como desejar. A utilização é gratuita.
 
+Existe também um [Site](http://cep.back4app.com/) com este projeto rodando para consultas gratuitas.
+
 ## Pré-Requisitos
 
 Este programa está escrito em [NodeJS](https://nodejs.org), que é um runtime Javascript, portanto, familiaridade com a linguagem Javascript é desejável.
@@ -32,11 +34,11 @@ O exemplo consulta o CEP 99980-974, que é passado sem hífen: 99980974
 
 A saída do programa é a seguinte:
 
-Encontrado(s) 1 resultado(s) para o CEP.
-        O logradouro para o CEP 99980974 é: Distrito Capela São José do Capingui
-        O bairro para o CEP 99980974 é: Capela São José do Capingui (Distrito)
-        A cidade para o CEP 99980974 é: David Canabarro
-        O estado para o CEP 99980974 é: RS
+* Encontrado(s) 1 resultado(s) para o CEP.
+  * O logradouro para o CEP 99980974 é: Distrito Capela São José do Capingui
+  * O bairro para o CEP 99980974 é: Capela São José do Capingui (Distrito)
+  * A cidade para o CEP 99980974 é: David Canabarro
+  * O estado para o CEP 99980974 é: RS
 
 ## Conta gratuita sem limitações de funcionalidades
 
